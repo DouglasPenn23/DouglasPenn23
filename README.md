@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in Java, JavaScript, HTML, CSS, C#
 
-- 🌱 I’m currently learning more effective methods & ways to use API's
+- 🌱 I’m currently learning more effective methods & ways to use/build API's
 
 - 💞️ I’m looking to collaborate on any projects that interest me & I have the skill set for
 
