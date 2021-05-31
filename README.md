@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Douglas Pennington!
 
-- 👀 I’m interested in Java, JavaScript, HTML, CSS, C#, Spring & learning new languages/frameworks. I consider JavaScript to be my best language.
+- 👀 I’m interested in Java, JavaScript, HTML, CSS, C#, Spring, React, SPA, UI/UX's & learning new languages/frameworks. 
 
 - 🌱 I’m currently learning more effective methods & ways to use/build API's. I have also taken an interest in GUI's. 
 
